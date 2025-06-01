@@ -43,7 +43,7 @@ This project detects electricity theft using dual current sensors and reports da
 
 ## 📷 Preview
 ![IMG-20250601-WA0003](https://github.com/user-attachments/assets/5183b428-64aa-4cef-959a-bda0a81ead40)
-
+ https://drive.google.com/drive/folders/1vV6ZWmZiXyuWrhnqMFM4NVz2zUjux4Cw
 
 
 ---
