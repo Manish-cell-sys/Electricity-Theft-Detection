@@ -8,7 +8,7 @@ This project detects electricity theft using dual current sensors and reports da
 
 - Detects electricity theft based on abnormal current on a parallel line
 - Displays real-time current readings on 16x2 I2C LCD
-- Sounds buzzer when theft is detected
+- Sounds buzzer when theft is detected for 10 sec
 - Sends data to ThingSpeak (Main current, Theft current, Theft alert)
 
 ---
